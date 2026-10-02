@@ -1,2 +1,3 @@
-runpod
+runpod==1.10.0
+fastapi<0.137
 requests
